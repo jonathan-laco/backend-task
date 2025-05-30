@@ -12,7 +12,6 @@ export function authenticate(req: Request, res: Response, next: NextFunction) {
     return res.status(401).json({ error: "Token não fornecido" });
   }
 
-  // Formato: "Bearer token"
   const parts = authHeader.split(" ");
 
   if (parts.length !== 2) {
