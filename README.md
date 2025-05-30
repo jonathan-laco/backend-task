@@ -184,23 +184,7 @@ O servidor estará rodando em [http://localhost:3333](http://localhost:3333).
   }
   ```
 
-## 🧪 Estrutura do projeto
 
-```
-backend-task/
-├── src/
-│   ├── controllers/
-│   ├── middlewares/
-│   ├── models/
-│   ├── routes/
-│   ├── services/
-│   └── server.ts
-├── prisma/
-│   └── schema.prisma
-├── .env
-├── package.json
-└── README.md
-```
 
 ## 📄 Licença
 
