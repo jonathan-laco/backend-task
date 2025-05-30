@@ -194,7 +194,7 @@ backend-task/
 │   ├── models/
 │   ├── routes/
 │   ├── services/
-│   └── index.ts
+│   └── server.ts
 ├── prisma/
 │   └── schema.prisma
 ├── .env
