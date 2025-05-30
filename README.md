@@ -180,7 +180,7 @@ O servidor estará rodando em [http://localhost:3333](http://localhost:3333).
 - **Resposta:**
   ```json
   {
-    "message": "Tarefa deletada com sucesso
+    "message": "Tarefa deletada com sucesso"
   }
   ```
 
