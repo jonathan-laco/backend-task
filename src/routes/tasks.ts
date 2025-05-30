@@ -4,8 +4,8 @@ import {
   createTask,
   updateTask,
   deleteTask,
-} from "../controllers/taskController";
-import { authenticate } from "../middlewares/authenticate";
+} from "../controller/taskController";
+import { authenticate } from "../middleware/autenticate";
 
 const router = Router();
 
